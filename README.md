@@ -1,6 +1,3 @@
-# SMS-EMAIL-SOCIAL-Sending-Application
-SMS/EMAIL/SOCIAL Sending Application Ideal For Larger Project Development
-
 ------------------------------------------------------------------------------------
 SMS-EMAIL-SOCIAL-Sending-Application - DESCRIPTION(S) - 3rd June 2017
 ------------------------------------------------------------------------------------
