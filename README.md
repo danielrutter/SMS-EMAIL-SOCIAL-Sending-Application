@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------
-SMS-EMAIL-SOCIAL-Sending-Application - DESCRIPTION(S) - 3rd June 2017
+SMS-EMAIL-SOCIAL-Sending-Application - First Published On 3rd June 2017
 ------------------------------------------------------------------------------------
 This is a SMS/EMAIL/SOCIAL Sending Application created under the MIT Licence for the purpose of providing a template/service for larger projects which involve Sending Data through SMS, EMAIL & Social Media.
 
